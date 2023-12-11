@@ -5,8 +5,7 @@
 ## Current Status
 
 <p align='center'>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roxidev&theme=vue-dark)](https://git.io/streak-stats)
+<img src='https://github-readme-streak-stats.herokuapp.com?user=roxidev&theme=vue-dark'/>
 </p>
 
 **roxidev/roxidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
