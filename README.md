@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align='center'>
 <img src='./Tecnoology.jpg'/>
+</p>
 
 ## Current Status
 
